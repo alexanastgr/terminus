@@ -4,7 +4,7 @@ Draggable terminal component in React + TypeScript.
 
 
 ### Demo
-https://terminus-six.vercel.app
+https://terminus-chi.vercel.app
 
 ### Preview
 
