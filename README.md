@@ -8,7 +8,7 @@ https://terminus-six.vercel.app
 
 ### Preview
 
-<img width="350px" style="border-radius:22px;" src="https://raw.githubusercontent.com/estroxgr/terminus/refs/heads/main/preview.png">
+<img width="350px" style="border-radius:22px;" src="https://raw.githubusercontent.com/alexanastgr/terminus/refs/heads/main/preview.png">
 
 
 ### Available Commands
